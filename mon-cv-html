@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <!-- Jeu de caractères utilisé pour l'encodage du fichier HTML -->
+    <meta charset="UTF-8">
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Titre de la page -->
+    <title>Mon CV | Nom du site</title>
+    <!-- Auteur -->
+    <meta name="author" content="Aedan Bélet">
+    <!-- Description de la page -->
+    <meta name="description" content="CV de Aedan.">
+</head>
+<body>
+    <h1>CV</h1>
+</body>
+</html>
