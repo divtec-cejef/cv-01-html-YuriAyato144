@@ -17,6 +17,12 @@ img {
     width: auto;
 }
 
+img_coiffure {
+     max-width: 450%;
+    height: auto;
+    width: auto;
+}
+
 a {
     color: deeppink;
     text-decoration: none;
