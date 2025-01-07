@@ -17,11 +17,6 @@ img {
     width: auto;
 }
 
-.coiffure {
-    max-width: 50%;
-    height: auto;
-    width: auto;
-}
 
 a {
     color: deeppink;
@@ -33,6 +28,13 @@ a:hover {
 }
 
 .avatar {
-  max-width: 200px;
-    max-height: 200px;
+  max-width: 13%;
+    height: auto;
+    width: auto;
+}
+
+.coiffure {
+    max-width: 35%;
+    height: auto;
+    width: auto;
 }
