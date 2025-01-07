@@ -18,7 +18,9 @@ img {
 }
 
 .img_coiffure {
-    width: 10px;
+    max-width: 10%;
+    height: auto;
+    width: auto;
 }
 
 a {
