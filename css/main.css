@@ -13,6 +13,9 @@ body {
 }
 main {
     color: #ebe1e1;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
 img {
     max-width: 100%;
@@ -24,7 +27,8 @@ a {
     text-decoration: #FFB6C1;
 }
 h1 {
-    font-size: 200px;
+    font-size: 45px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 p {
     font-size: 1.2em;
