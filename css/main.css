@@ -12,6 +12,10 @@ body {
     margin: 20px;
 }
 
+main {
+    color: #9e7a7a;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -21,10 +25,10 @@ img {
 
 a {
     color: deeppink;
-    text-decoration: #9e7a7a /*#FFB6C1*/;
+    text-decoration: #FFB6C1;
 }
 
-h1{
+h1 {
     front-size: 200px;
 }
 
