@@ -21,7 +21,11 @@ img {
 
 a {
     color: deeppink;
-    text-decoration: #FFB6C1;
+    text-decoration: #9e7a7a /*#FFB6C1*/;
+}
+
+h1{
+    front-size: 200px;
 }
 
 a:hover {
