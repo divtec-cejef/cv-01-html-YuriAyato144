@@ -13,9 +13,9 @@ body {
 }
 main {
     color: #ebe1e1;
-    /*max-width: 8px;
-    margin: 0 auto;
-    padding: 20px;*/
+    max-width: 20px;
+    margin: 20px;
+    padding: 20px;
 }
 img {
     max-width: 100%;
