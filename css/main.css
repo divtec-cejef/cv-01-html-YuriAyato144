@@ -10,6 +10,9 @@ body {
     background-color: #333333;
     margin: 20px;
     text-align: justify;
+    background-image: url('css/image_fond.png');
+    background-size: cover;
+    background-position: center;
 }
 main {
     color: #ebe1e1;
