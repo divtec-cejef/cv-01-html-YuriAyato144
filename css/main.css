@@ -7,13 +7,13 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: white;
-    background-color: black;
+    background-color: #333333;
     margin: 20px;
     text-align: justify;
 }
 main {
     color: #ebe1e1;
-    max-width: 800px;
+    max-width: 8px;
     margin: 0 auto;
     padding: 20px;
 }
