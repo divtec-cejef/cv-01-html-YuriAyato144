@@ -24,10 +24,10 @@ a {
     text-decoration: #FFB6C1;
 }
 h1 {
-    front-size: 200px;
+    font-size: 200px;
 }
 p {
-    front-size: 1.2em;
+    font-size: 1.2em;
 }
 a:hover {
     color: #FF69B4;
