@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+
 body {
     font-family: Arial, sans-serif;
     font-weight: 400;
@@ -10,40 +11,49 @@ body {
     background-color: #333333;
     margin: 20px;
     text-align: justify;
- }
+}
+
 main {
     color: #ebe1e1;
 }
+
 img {
     max-width: 100%;
     height: auto;
     width: auto;
 }
+
 a {
     color: deeppink;
     text-decoration: none;
 }
+
 h1 {
     font-size: 45px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
-h2{
+
+h2 {
     font-size: 1.5em;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     color: #ffffff;
 }
+
 p {
     font-size: 1.2em;
 }
+
 a:hover {
     color: #FF69B4;
 }
+
 .avatar {
-  max-width: 14%;
+    max-width: 14%;
     height: auto;
     width: auto;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+
 .coiffure {
     max-width: 32%;
     height: auto;
